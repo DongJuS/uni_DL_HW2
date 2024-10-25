@@ -1,0 +1,19 @@
+{"time":"2024-10-25T14:17:20.9737988+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T14:17:20.975865+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_141715-5wjppshl\\logs\\debug-core.log"}
+{"time":"2024-10-25T14:17:20.9806677+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T14:17:21.0313086+09:00","level":"INFO","msg":"created new stream","id":"5wjppshl"}
+{"time":"2024-10-25T14:17:21.0356694+09:00","level":"INFO","msg":"stream: started","id":"5wjppshl"}
+{"time":"2024-10-25T14:17:21.0356694+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:17:21.0356694+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:17:21.0365705+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:17:21.4011536+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T14:17:21.4041608+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T14:17:59.3294357+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T14:17:59.3398593+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T14:18:02.3161049+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T14:18:03.8046184+09:00","level":"INFO","msg":"stream: closing","id":"5wjppshl"}
+{"time":"2024-10-25T14:18:03.8046184+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:18:03.8046184+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:18:03.8054448+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"5wjppshl"}}
+{"time":"2024-10-25T14:18:03.8054448+09:00","level":"INFO","msg":"stream: closed","id":"5wjppshl"}
+{"time":"2024-10-25T14:18:04.3397368+09:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

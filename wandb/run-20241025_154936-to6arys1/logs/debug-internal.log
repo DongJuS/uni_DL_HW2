@@ -1,0 +1,27 @@
+{"time":"2024-10-25T15:49:36.4549545+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T15:49:36.4549545+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_154936-to6arys1\\logs\\debug-core.log"}
+{"time":"2024-10-25T15:49:36.455997+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T15:49:36.5169495+09:00","level":"INFO","msg":"created new stream","id":"to6arys1"}
+{"time":"2024-10-25T15:49:36.5195414+09:00","level":"INFO","msg":"stream: started","id":"to6arys1"}
+{"time":"2024-10-25T15:49:36.5195414+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:49:36.5195414+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:49:36.5200488+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:49:37.0830135+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T15:49:37.0835319+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T15:50:06.8600515+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T15:54:29.3771326+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T15:54:29.382864+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T15:54:33.9745727+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T15:54:33.9792668+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T15:54:35.5095931+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T15:54:35.5161371+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T15:54:42.2617443+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T15:54:42.3173083+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T15:54:42.3302124+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T15:54:47.3307882+09:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}
+{"time":"2024-10-25T15:55:04.2479002+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T15:55:05.9320931+09:00","level":"INFO","msg":"stream: closing","id":"to6arys1"}
+{"time":"2024-10-25T15:55:05.9320931+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:55:05.9326097+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:55:05.933173+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"to6arys1"}}
+{"time":"2024-10-25T15:55:05.9336886+09:00","level":"INFO","msg":"stream: closed","id":"to6arys1"}

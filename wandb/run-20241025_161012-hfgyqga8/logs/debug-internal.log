@@ -1,0 +1,19 @@
+{"time":"2024-10-25T16:10:16.8133075+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T16:10:16.8143436+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_161012-hfgyqga8\\logs\\debug-core.log"}
+{"time":"2024-10-25T16:10:16.8193863+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T16:10:16.8728753+09:00","level":"INFO","msg":"created new stream","id":"hfgyqga8"}
+{"time":"2024-10-25T16:10:16.8746061+09:00","level":"INFO","msg":"stream: started","id":"hfgyqga8"}
+{"time":"2024-10-25T16:10:16.8746061+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:10:16.8751226+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:10:16.8761565+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:10:17.3684638+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T16:10:17.3710511+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T16:22:29.1536818+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T16:22:29.5884395+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T16:22:30.8182586+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T16:22:32.1659065+09:00","level":"INFO","msg":"stream: closing","id":"hfgyqga8"}
+{"time":"2024-10-25T16:22:32.1659065+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:22:32.1659065+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:22:32.1659065+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"hfgyqga8"}}
+{"time":"2024-10-25T16:22:32.1664208+09:00","level":"INFO","msg":"stream: closed","id":"hfgyqga8"}
+{"time":"2024-10-25T16:22:34.5854838+09:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

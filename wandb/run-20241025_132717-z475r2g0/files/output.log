@@ -1,0 +1,8 @@
+Namespace(wandb=True, batch_size=64, epochs=300, learning_rate=0.001, hidden_units=[256, 64], train_csv_path='train.csv', test_csv_path='test.csv', output_path='test_predictions_ELU_epo300_hidden25664.csv')
+{'epochs': 300, 'batch_size': 64, 'learning_rate': 0.001, 'n_hidden_unit_list': [256, 64]}
+<__main__.TitanicDataset object at 0x0000016AC7E97100>
+Train size: 712, Validation size: 179
+Epoch 100, Training Loss: 0.3913, Validation Loss: 0.5106, Training Acc: 0.8132, Validation Acc: 0.7933, Training Precision: 0.7717, Validation Precision: 0.7833, Training Recall: 0.7232, Validation Recall: 0.6620, Training F1: 0.7467, Validation F1: 0.7176
+Epoch 200, Training Loss: 0.3921, Validation Loss: 0.5246, Training Acc: 0.8006, Validation Acc: 0.7877, Training Precision: 0.8241, Validation Precision: 0.8511, Training Recall: 0.6052, Validation Recall: 0.5634, Training F1: 0.6979, Validation F1: 0.6780
+Epoch 300, Training Loss: 0.4076, Validation Loss: 0.5200, Training Acc: 0.8006, Validation Acc: 0.7989, Training Precision: 0.8525, Validation Precision: 0.8571, Training Recall: 0.5756, Validation Recall: 0.5915, Training F1: 0.6872, Validation F1: 0.7000
+Test predictions saved to test_predictions_ELU_epo300_hidden25664.csv

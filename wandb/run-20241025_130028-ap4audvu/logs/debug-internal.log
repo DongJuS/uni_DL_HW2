@@ -1,0 +1,18 @@
+{"time":"2024-10-25T13:00:28.4844499+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T13:00:28.4849799+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_130028-ap4audvu\\logs\\debug-core.log"}
+{"time":"2024-10-25T13:00:28.5126658+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T13:00:28.5383212+09:00","level":"INFO","msg":"created new stream","id":"ap4audvu"}
+{"time":"2024-10-25T13:00:28.5400581+09:00","level":"INFO","msg":"stream: started","id":"ap4audvu"}
+{"time":"2024-10-25T13:00:28.5400581+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:28.5400581+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:28.5405654+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:29.0006738+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T13:00:29.0022875+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T13:00:54.8060176+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T13:00:55.2200908+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T13:00:56.4596488+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T13:00:57.8017125+09:00","level":"INFO","msg":"stream: closing","id":"ap4audvu"}
+{"time":"2024-10-25T13:00:57.8017125+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:57.8017125+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:57.8022271+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"ap4audvu"}}
+{"time":"2024-10-25T13:00:57.8022845+09:00","level":"INFO","msg":"stream: closed","id":"ap4audvu"}

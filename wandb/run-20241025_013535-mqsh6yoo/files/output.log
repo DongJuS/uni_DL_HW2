@@ -1,0 +1,7 @@
+Namespace(wandb=True, batch_size=64, epochs=200, learning_rate=0.001, hidden_units=[128, 64], train_csv_path='train.csv', test_csv_path='test.csv', output_path='test_predictions.csv')
+{'epochs': 200, 'batch_size': 64, 'learning_rate': 0.001, 'n_hidden_unit_list': [128, 64]}
+<__main__.TitanicDataset object at 0x00000293CA4A7100>
+Train size: 712, Validation size: 179
+Epoch 100, Training Loss: 0.3993, Validation Loss: 0.4404, Training Acc: 0.8076, Validation Acc: 0.8045, Training Precision: 0.7686, Validation Precision: 0.7619, Training Recall: 0.7153, Validation Recall: 0.7059, Training F1: 0.7410, Validation F1: 0.7328
+Epoch 200, Training Loss: 0.3897, Validation Loss: 0.4447, Training Acc: 0.8174, Validation Acc: 0.8101, Training Precision: 0.8158, Validation Precision: 0.7931, Training Recall: 0.6788, Validation Recall: 0.6765, Training F1: 0.7410, Validation F1: 0.7302
+Test predictions saved to test_predictions.csv

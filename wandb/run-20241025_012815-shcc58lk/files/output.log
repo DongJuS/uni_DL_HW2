@@ -1,0 +1,52 @@
+Namespace(wandb=True, batch_size=64, epochs=200, learning_rate=0.001, hidden_units=[128, 64], train_csv_path='train.csv', test_csv_path='test.csv', output_path='test_predictions.csv')
+{'epochs': 200, 'batch_size': 64, 'learning_rate': 0.001, 'n_hidden_unit_list': [128, 64]}
+Traceback (most recent call last):
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Survived'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 297, in <module>
+    main(args)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 238, in main
+    train_data_loader, validation_data_loader = get_data(csv_path=args.train_csv_path)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 72, in get_data
+    dataset = TitanicDataset(csv_file=csv_path)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 41, in __init__
+    self.y = self.data['Survived'].values.astype(float)
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Survived'
+Traceback (most recent call last):
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\indexes\base.py", line 3805, in get_loc
+    return self._engine.get_loc(casted_key)
+  File "index.pyx", line 167, in pandas._libs.index.IndexEngine.get_loc
+  File "index.pyx", line 196, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7081, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\\_libs\\hashtable_class_helper.pxi", line 7089, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'Survived'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 297, in <module>
+    main(args)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 238, in main
+    train_data_loader, validation_data_loader = get_data(csv_path=args.train_csv_path)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 72, in get_data
+    dataset = TitanicDataset(csv_file=csv_path)
+  File "C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\f_my_model_training_with_argparse_wandb.py", line 41, in __init__
+    self.y = self.data['Survived'].values.astype(float)
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\frame.py", line 4102, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "C:\Users\didsu\anaconda3\envs\link_dl\lib\site-packages\pandas\core\indexes\base.py", line 3812, in get_loc
+    raise KeyError(key) from err
+KeyError: 'Survived'

@@ -1,0 +1,46 @@
+2024-10-25 15:27:59,384 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Current SDK version is 0.18.3
+2024-10-25 15:27:59,384 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Configure stats pid to 12920
+2024-10-25 15:27:59,385 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Loading settings from C:\Users\didsu\.config\wandb\settings
+2024-10-25 15:27:59,385 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Loading settings from C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\wandb\settings
+2024-10-25 15:27:59,385 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-10-25 15:27:59,385 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': 'online', '_disable_service': None}
+2024-10-25 15:27:59,386 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-10-25 15:27:59,386 INFO    MainThread:12920 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-10-25 15:27:59,387 INFO    MainThread:12920 [wandb_init.py:_log_setup():532] Logging user logs to C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\wandb\run-20241025_152759-6kwb1hcg\logs\debug.log
+2024-10-25 15:27:59,387 INFO    MainThread:12920 [wandb_init.py:_log_setup():533] Logging internal logs to C:\Users\didsu\code_projects\uni_24\DL\link_dl\_02_homeworks\homework_2\wandb\run-20241025_152759-6kwb1hcg\logs\debug-internal.log
+2024-10-25 15:27:59,387 INFO    MainThread:12920 [wandb_init.py:_jupyter_setup():478] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x000001AEA16F7580>
+2024-10-25 15:27:59,388 INFO    MainThread:12920 [wandb_init.py:init():617] calling init triggers
+2024-10-25 15:27:59,388 INFO    MainThread:12920 [wandb_init.py:init():624] wandb.init called with sweep_config: {}
+config: {'epochs': 300, 'batch_size': 64, 'learning_rate': 0.001}
+2024-10-25 15:27:59,388 INFO    MainThread:12920 [wandb_init.py:init():642] re-initializing run, found existing run on stack: z5oz0jss
+2024-10-25 15:27:59,391 INFO    MainThread:12920 [wandb_run.py:_finish():2164] finishing run -ddj127-korea-university-of-technology-and-education/titanic_model_training/z5oz0jss
+2024-10-25 15:27:59,392 INFO    MainThread:12920 [wandb_run.py:_atexit_cleanup():2428] got exitcode: 0
+2024-10-25 15:27:59,393 INFO    MainThread:12920 [wandb_run.py:_restore():2410] restore
+2024-10-25 15:27:59,394 INFO    MainThread:12920 [wandb_run.py:_restore():2416] restore done
+2024-10-25 15:28:01,759 INFO    MainThread:12920 [wandb_run.py:_footer_history_summary_info():4049] rendering history
+2024-10-25 15:28:01,760 INFO    MainThread:12920 [wandb_run.py:_footer_history_summary_info():4081] rendering summary
+2024-10-25 15:28:01,811 INFO    MainThread:12920 [wandb_run.py:_footer_sync_info():4008] logging synced files
+2024-10-25 15:28:01,887 INFO    MainThread:12920 [wandb_init.py:init():667] starting backend
+2024-10-25 15:28:01,888 INFO    MainThread:12920 [wandb_init.py:init():671] sending inform_init request
+2024-10-25 15:28:01,922 INFO    MainThread:12920 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn, using: spawn
+2024-10-25 15:28:01,953 INFO    MainThread:12920 [wandb_init.py:init():684] backend started and connected
+2024-10-25 15:28:02,003 INFO    MainThread:12920 [wandb_run.py:_label_probe_notebook():1346] probe notebook
+2024-10-25 15:28:02,003 INFO    MainThread:12920 [wandb_run.py:_label_probe_notebook():1356] Unable to probe notebook: 'NoneType' object has no attribute 'get'
+2024-10-25 15:28:02,003 INFO    MainThread:12920 [wandb_init.py:init():779] updated telemetry
+2024-10-25 15:28:02,190 INFO    MainThread:12920 [wandb_init.py:init():812] communicating run to backend with 90.0 second timeout
+2024-10-25 15:28:02,900 INFO    MainThread:12920 [wandb_init.py:init():863] starting run threads in backend
+2024-10-25 15:28:03,765 INFO    MainThread:12920 [wandb_run.py:_console_start():2465] atexit reg
+2024-10-25 15:28:03,768 INFO    MainThread:12920 [wandb_run.py:_redirect():2313] redirect: wrap_raw
+2024-10-25 15:28:03,769 INFO    MainThread:12920 [wandb_run.py:_redirect():2378] Wrapping output streams.
+2024-10-25 15:28:03,769 INFO    MainThread:12920 [wandb_run.py:_redirect():2403] Redirects installed.
+2024-10-25 15:28:03,776 INFO    MainThread:12920 [wandb_init.py:init():907] run started, returning control to user process
+2024-10-25 15:28:30,989 INFO    MainThread:12920 [wandb_run.py:_finish():2164] finishing run -ddj127-korea-university-of-technology-and-education/titanic_model_training/6kwb1hcg
+2024-10-25 15:28:30,990 INFO    MainThread:12920 [jupyter.py:save_history():459] not saving jupyter history
+2024-10-25 15:28:30,991 INFO    MainThread:12920 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-10-25 15:28:30,991 INFO    MainThread:12920 [wandb_init.py:_jupyter_teardown():460] cleaning up jupyter logic
+2024-10-25 15:28:30,991 INFO    MainThread:12920 [wandb_run.py:_atexit_cleanup():2428] got exitcode: 0
+2024-10-25 15:28:31,007 INFO    MainThread:12920 [wandb_run.py:_restore():2410] restore
+2024-10-25 15:28:31,007 INFO    MainThread:12920 [wandb_run.py:_restore():2416] restore done
+2024-10-25 15:28:33,451 INFO    MainThread:12920 [wandb_run.py:_footer_history_summary_info():4049] rendering history
+2024-10-25 15:28:33,452 INFO    MainThread:12920 [wandb_run.py:_footer_history_summary_info():4081] rendering summary
+2024-10-25 15:28:33,488 INFO    MainThread:12920 [wandb_run.py:_footer_sync_info():4008] logging synced files

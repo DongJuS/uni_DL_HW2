@@ -1,0 +1,23 @@
+{"time":"2024-10-25T14:16:07.6805057+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T14:16:07.6805057+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_141607-hp6m9v4f\\logs\\debug-core.log"}
+{"time":"2024-10-25T14:16:07.7315563+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T14:16:07.7682265+09:00","level":"INFO","msg":"created new stream","id":"hp6m9v4f"}
+{"time":"2024-10-25T14:16:07.7714007+09:00","level":"INFO","msg":"stream: started","id":"hp6m9v4f"}
+{"time":"2024-10-25T14:16:07.7714007+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:16:07.7714007+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:16:07.7714007+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:16:08.3987902+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T14:16:08.3998705+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T14:16:09.4578211+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T14:17:09.569666+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T14:17:09.5782902+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-10-25T14:17:15.3233467+09:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-10-25T14:17:15.3487089+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T14:17:15.7677357+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T14:17:18.6327134+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T14:17:20.0789318+09:00","level":"INFO","msg":"stream: closing","id":"hp6m9v4f"}
+{"time":"2024-10-25T14:17:20.0789318+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:17:20.0798941+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:17:20.0798941+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"hp6m9v4f"}}
+{"time":"2024-10-25T14:17:20.0798941+09:00","level":"INFO","msg":"stream: closed","id":"hp6m9v4f"}
+{"time":"2024-10-25T14:17:20.7660343+09:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

@@ -1,0 +1,61 @@
+{
+  "os": "Windows-10-10.0.26100-SP0",
+  "python": "3.10.15",
+  "startedAt": "2024-10-24T16:35:35.608493Z",
+  "args": [
+    "--train_csv_path",
+    "train.csv",
+    "--test_csv_path",
+    "test.csv",
+    "--output_path",
+    "test_predictions.csv",
+    "--wandb",
+    "--batch_size",
+    "64",
+    "--epochs",
+    "200",
+    "--learning_rate",
+    "0.001",
+    "--hidden_units",
+    "128",
+    "64"
+  ],
+  "program": "C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\f_my_model_training_with_argparse_wandb.py",
+  "codePath": "_02_homeworks\\homework_2\\f_my_model_training_with_argparse_wandb.py",
+  "git": {
+    "remote": "https://github.com/linklab/link_dl.git",
+    "commit": "aa80174a047924ff36a2bf8800ebe9093b978eb1"
+  },
+  "email": "didsusclzls@naver.com",
+  "root": "C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2",
+  "host": "ddjs127",
+  "username": "didsu",
+  "executable": "C:\\Users\\didsu\\anaconda3\\envs\\link_dl\\python.exe",
+  "codePathLocal": "f_my_model_training_with_argparse_wandb.py",
+  "cpu_count": 10,
+  "cpu_count_logical": 16,
+  "gpu": "[NVIDIA GeForce RTX 4050 Laptop GPU]",
+  "gpu_count": 1,
+  "disk": {
+    "/": {
+      "total": "999368421376",
+      "used": "131034198016"
+    }
+  },
+  "memory": {
+    "total": "34048847872"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 16
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 4050 Laptop GPU",
+      "memoryTotal": "6439305216",
+      "cudaCores": 2560,
+      "architecture": "Ada"
+    }
+  ],
+  "cudaVersion": "12.3"
+}

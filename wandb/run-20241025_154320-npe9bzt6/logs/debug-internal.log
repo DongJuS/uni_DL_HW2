@@ -1,0 +1,19 @@
+{"time":"2024-10-25T15:43:25.7768034+09:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-25T15:43:25.7768034+09:00","level":"INFO","msg":"created symlink","path":"C:\\Users\\didsu\\code_projects\\uni_24\\DL\\link_dl\\_02_homeworks\\homework_2\\wandb\\run-20241025_154320-npe9bzt6\\logs\\debug-core.log"}
+{"time":"2024-10-25T15:43:25.7798105+09:00","level":"ERROR","msg":"dialing: google: could not find default credentials. See https://cloud.google.com/docs/authentication/external/set-up-adc for more information"}
+{"time":"2024-10-25T15:43:25.813966+09:00","level":"INFO","msg":"created new stream","id":"npe9bzt6"}
+{"time":"2024-10-25T15:43:25.8169704+09:00","level":"INFO","msg":"stream: started","id":"npe9bzt6"}
+{"time":"2024-10-25T15:43:25.8169704+09:00","level":"INFO","msg":"handler: started","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:43:25.8169704+09:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:43:25.8185218+09:00","level":"INFO","msg":"sender: started","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:43:27.0071576+09:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-25T15:43:27.0087368+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-25T15:43:58.7280711+09:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-25T15:43:58.7371216+09:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-25T15:44:00.4674227+09:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-25T15:44:01.9128412+09:00","level":"INFO","msg":"stream: closing","id":"npe9bzt6"}
+{"time":"2024-10-25T15:44:01.9128412+09:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:44:01.9128412+09:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:44:01.9133535+09:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"npe9bzt6"}}
+{"time":"2024-10-25T15:44:01.9140913+09:00","level":"INFO","msg":"stream: closed","id":"npe9bzt6"}
+{"time":"2024-10-25T15:44:03.7342268+09:00","level":"ERROR","msg":"monitor: gpu: timeout waiting for process to exit"}

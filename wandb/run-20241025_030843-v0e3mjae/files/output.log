@@ -1,0 +1,7 @@
+Namespace(wandb=True, batch_size=64, epochs=200, learning_rate=0.001, hidden_units=[128, 64], train_csv_path='train.csv', test_csv_path='test.csv', output_path='test_predictions_LeakyReLU.csv')
+{'epochs': 200, 'batch_size': 64, 'learning_rate': 0.001, 'n_hidden_unit_list': [128, 64]}
+<__main__.TitanicDataset object at 0x0000016B82947100>
+Train size: 712, Validation size: 179
+Epoch 100, Training Loss: 0.4105, Validation Loss: 0.4316, Training Acc: 0.7949, Validation Acc: 0.8045, Training Precision: 0.8663, Validation Precision: 0.7400, Training Recall: 0.5724, Validation Recall: 0.6271, Training F1: 0.6894, Validation F1: 0.6789
+Epoch 200, Training Loss: 0.4002, Validation Loss: 0.4445, Training Acc: 0.8118, Validation Acc: 0.8045, Training Precision: 0.7833, Validation Precision: 0.7143, Training Recall: 0.7279, Validation Recall: 0.6780, Training F1: 0.7546, Validation F1: 0.6957
+Test predictions saved to test_predictions_LeakyReLU.csv
